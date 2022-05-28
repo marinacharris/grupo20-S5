@@ -14,3 +14,6 @@ else:
     print('error')
     
 print('ok') if a == 5 else print('error')
+
+a = 526894.5652232589
+print(f'El numero es: {a:,.2F}')
